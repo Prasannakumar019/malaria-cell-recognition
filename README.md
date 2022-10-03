@@ -159,18 +159,15 @@ else:
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://user-images.githubusercontent.com/75235090/193498517-b647ef72-0378-4c95-9cc2-906af322c7ae.png)
 
-### Classification Report
+### Classification Report and Confusion Matrix
 
-Include Classification Report here
-
-### Confusion Matrix
-
-Include confusion matrix here
+![image](https://user-images.githubusercontent.com/75235090/193498735-c02f711f-7d27-4f5c-a7bb-c8408d8bc135.png)
 
 ### New Sample Data Prediction
 
-Include your sample cell image input and output of your model.
+![image](https://user-images.githubusercontent.com/75235090/193498819-7ea238ee-b990-4050-81d8-7b75b86fab6c.png)
 
 ## RESULT
+Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
